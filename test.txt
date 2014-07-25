@@ -1,3 +1,4 @@
+made change
 add a new untracked file
 modify the file
 modified again when it's staged
